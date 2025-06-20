@@ -12,9 +12,8 @@
 ### 🔥 Current Activity Streak
 
 <p align="center">
-  <strong>Here’s my current activity streak — keeping the fire alive!</strong>
+  <strong>Actively contributing every day!</strong>
 </p>
-
 
 <!-- Dynamic GitHub Streak Stats -->
 <p align="center">
