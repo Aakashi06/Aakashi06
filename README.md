@@ -37,7 +37,7 @@
 
 <!-- GitHub Streak Card -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aakashi&theme=fire&hide_border=false" alt="Aakashi's GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Aakashi06&theme=fire&hide_border=false" />
 </p>
 
 ---
