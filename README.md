@@ -37,3 +37,12 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Aakashi06&show_icons=true&theme=radical" alt="Aakashi06's GitHub stats" />
 </p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aakashi06&theme=radical&no-bg=true&margin-w=15&row=2&column=4" alt="Aakashi06's GitHub Trophies" />
+</p>
+
