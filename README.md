@@ -28,11 +28,12 @@
 
 ---
 
-<!-- GitHub Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aakashi06&theme=dracula" alt="Aakashi06's GitHub Contribution Graph" />
-</p>
+### 🔥 GitHub Streak
 
+<p align="center">
+  <strong>Actively contributing every day!</strong><br/><br/>
+  <img src="https://streak-stats.demolab.com?user=Aakashi06&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Aakashi06's GitHub Streak" />
+</p>
 
 ---
 
