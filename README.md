@@ -10,35 +10,30 @@
 
 ---
 
-### 🛠️ Tech Stack I Use
+### Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<p align="left-align">
+  <img src="https://img.shields.io/badge/HTML-f48c8c?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-8cb4f4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f4e38c?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-8cf4b2?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-8ce4f4?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/SQL-bd9cf4?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-a7aef4?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-8caef4?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-caa6f4?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-b9b9b9?style=for-the-badge&logo=notion&logoColor=000000" />
 </p>
 
-
 ---
 
----
+### 🔥 GitHub Stats
 
-### 🔥 GitHub Streak
-
-<p align="center">
+<p align="left">
   <strong>Actively contributing every day!</strong><br/><br/>
   <img src="https://streak-stats.demolab.com?user=Aakashi06&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Aakashi06's GitHub Streak" />
 </p>
 
----
-
-### 📊 GitHub Stats
-<!-- GitHub Stats -->
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Aakashi06&show_icons=true&theme=radical" alt="Aakashi06's GitHub stats" />
 </p>
