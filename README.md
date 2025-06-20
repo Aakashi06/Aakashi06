@@ -4,7 +4,8 @@
 
 💻 I am a developer who enjoys building cool things on the web and learning something new every day.<br/>
 📱 I mostly work with web and app technologies, and love exploring tools that help me grow as a developer.<br/>
-📝 I write blogs where I share what I learn, document my projects, and talk tech in a simple, relatable way. You can read them [here](<paste-your-blog-link-here>) or find them on [LinkedIn](https://www.linkedin.com/in/aakashi-jaiswal-6b448524b/).<br/>
+📝 I write blogs where I share what I learn, document my projects and talk tech in a simple way. You can read them [here](https://hashnode.com/@Aakashi06).<br/>
+💬 I also share insights on tech, coding, and motivation over on [LinkedIn](https://www.linkedin.com/in/aakashi-jaiswal-6b448524b/).<br/>
 🧵 On [X (Twitter)](https://x.com/Aakashi_123), I post thoughts, updates, and bite-sized tech content.<br/>
 
 ---
