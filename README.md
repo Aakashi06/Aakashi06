@@ -8,10 +8,7 @@
 💬 I also share insights on tech, coding, and motivation over on [LinkedIn](https://www.linkedin.com/in/aakashi-jaiswal-6b448524b/).<br/>
 🧵 On [X (Twitter)](https://x.com/Aakashi_123), I post thoughts, updates, and bite-sized tech content.<br/>
 
----
-
-### 🔥 Current Activity Streak
-
+--
 <p align="center">
   <strong>Actively contributing every day!</strong>
 </p>
