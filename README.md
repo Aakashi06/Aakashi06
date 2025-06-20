@@ -26,9 +26,11 @@
 
 ---
 
+---
+
 <!-- GitHub Contribution Graph -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Aakashi06&theme=github" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aakashi06&theme=dracula" alt="Aakashi06's GitHub Contribution Graph" />
 </p>
 
 
