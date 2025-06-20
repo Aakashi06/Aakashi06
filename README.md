@@ -26,23 +26,16 @@
 
 ---
 
+<!-- GitHub Contribution Graph -->
 <p align="center">
-  <strong>Actively contributing every day!</strong>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Aakashi06&theme=github" alt="GitHub Activity Graph" />
 </p>
 
-<!-- Dynamic GitHub Streak Stats -->
-<p align="center">
-  <img src="./fire_785116.png" alt="Fire icon" width="40" />
-</p>
-
-<!-- GitHub Streak Card -->
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=Aakashi06&theme=fire&hide_border=false" />
-</p>
 
 ---
 
 ### 📊 GitHub Stats
-
-![Aakashi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aakashi&count_private=true&show_icons=true&theme=radical&hide_rank=false)  
-[GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aakashi06&show_icons=true&theme=radical" alt="Aakashi06's GitHub stats" />
+</p>
