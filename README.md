@@ -29,10 +29,11 @@
 
 ### 🔥 GitHub Stats
 
-<p align="left">
+<div align="left">
   <strong>Actively contributing every day!</strong><br/><br/>
   <img src="https://streak-stats.demolab.com?user=Aakashi06&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Aakashi06's GitHub Streak" />
-</p>
+</div>
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Aakashi06&show_icons=true&theme=radical" alt="Aakashi06's GitHub stats" />
