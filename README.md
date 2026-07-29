@@ -48,9 +48,11 @@
 </p>
 
 ---
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakashi06&theme=github-compact&hide_border=true&area=true"/>
 </p>
+
+
 
