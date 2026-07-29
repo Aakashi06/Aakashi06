@@ -1,12 +1,10 @@
-# Hi, I'm Aakashi 👋
+# Hi, I'm Aakashi 
 
 ### Building AI products with LLMs, AI Agents & Open-Source Models
 
-I'm an AI Engineer passionate about turning ideas into intelligent applications using **LLMs, RAG, AI Agents, and open-source models.** Currently focused on **fine-tuning, inference optimization, evaluations, and production-ready AI systems.**
-
 ---
 
-## 🌐 Let's Connect
+## Socials
 
 <p align="left">
   <a href="https://x.com/Aakashi_123">
@@ -25,7 +23,7 @@ I'm an AI Engineer passionate about turning ideas into intelligent applications 
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <p align="left">
 
@@ -71,8 +69,3 @@ I'm an AI Engineer passionate about turning ideas into intelligent applications 
   <img src="https://github-profile-trophy.vercel.app/?username=Aakashi06&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=12"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aakashi06&style=flat-square&color=7C83FD"/>
-</p>
