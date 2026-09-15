@@ -1,8 +1,6 @@
-# Hi, I'm Aakashi 
+# Hi, I'm Aakashi 👋
 
 ### Building AI products with LLMs, AI Agents & Open-Source Models
-
----
 
 ## Socials
 
@@ -21,38 +19,31 @@
   </a>
 </p>
 
----
-
 ## Tech Stack
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/Python-E8F0FE?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=E8F0FE"/>
-<img src="https://img.shields.io/badge/PyTorch-FDECEC?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=FDECEC"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFF7D6?style=for-the-badge&logo=huggingface&logoColor=F9A825&labelColor=FFF7D6"/>
-<img src="https://img.shields.io/badge/Transformers-FFF3D4?style=for-the-badge&logo=huggingface&logoColor=D97706&labelColor=FFF3D4"/>
-<img src="https://img.shields.io/badge/LangChain-EAF8F3?style=for-the-badge&logo=chainlink&logoColor=15803D&labelColor=EAF8F3"/>
-<img src="https://img.shields.io/badge/LangGraph-E9F7EF?style=for-the-badge&logo=graphql&logoColor=10B981&labelColor=E9F7EF"/>
-<img src="https://img.shields.io/badge/Unsloth-F3E8FF?style=for-the-badge&logo=ghost&logoColor=7C3AED&labelColor=F3E8FF"/>
-<img src="https://img.shields.io/badge/FastAPI-E6FFFA?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=E6FFFA"/>
-<img src="https://img.shields.io/badge/Docker-EAF4FF?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=EAF4FF"/>
-<img src="https://img.shields.io/badge/React-E6FAFF?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=E6FAFF"/>
-<img src="https://img.shields.io/badge/Node.js-EAF7E8?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=EAF7E8"/>
-<img src="https://img.shields.io/badge/JavaScript-FFF9DB?style=for-the-badge&logo=javascript&logoColor=B58900&labelColor=FFF9DB"/>
-<img src="https://img.shields.io/badge/SQL-F1EEFF?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=F1EEFF"/>
-<img src="https://img.shields.io/badge/C++-EDF4FF?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=EDF4FF"/>
-<img src="https://img.shields.io/badge/Git-FFF0EC?style=for-the-badge&logo=git&logoColor=F05032&labelColor=FFF0EC"/>
-<img src="https://img.shields.io/badge/Postman-FFF3EC?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=FFF3EC"/>
-<img src="https://img.shields.io/badge/Notion-F5F5F5?style=for-the-badge&logo=notion&logoColor=111827&labelColor=F5F5F5"/>
-
+  <img src="https://img.shields.io/badge/Python-E8F0FE?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=E8F0FE"/>
+  <img src="https://img.shields.io/badge/PyTorch-FDECEC?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=FDECEC"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFF7D6?style=for-the-badge&logo=huggingface&logoColor=F9A825&labelColor=FFF7D6"/>
+  <img src="https://img.shields.io/badge/Transformers-FFF3D4?style=for-the-badge&logo=huggingface&logoColor=D97706&labelColor=FFF3D4"/>
+  <img src="https://img.shields.io/badge/LangChain-EAF8F3?style=for-the-badge&logo=chainlink&logoColor=15803D&labelColor=EAF8F3"/>
+  <img src="https://img.shields.io/badge/LangGraph-E9F7EF?style=for-the-badge&logo=graphql&logoColor=10B981&labelColor=E9F7EF"/>
+  <img src="https://img.shields.io/badge/LangSmith-EAF2FF?style=for-the-badge&logo=langchain&logoColor=2563EB&labelColor=EAF2FF"/>
+  <img src="https://img.shields.io/badge/Unsloth-F3E8FF?style=for-the-badge&logo=ghost&logoColor=7C3AED&labelColor=F3E8FF"/>
+  <img src="https://img.shields.io/badge/Ollama-F5F5F5?style=for-the-badge&logo=ollama&logoColor=111827&labelColor=F5F5F5"/>
+  <img src="https://img.shields.io/badge/FastAPI-E6FFFA?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=E6FFFA"/>
+  <img src="https://img.shields.io/badge/Docker-EAF4FF?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=EAF4FF"/>
+  <img src="https://img.shields.io/badge/React-E6FAFF?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=E6FAFF"/>
+  <img src="https://img.shields.io/badge/Node.js-EAF7E8?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=EAF7E8"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFF9DB?style=for-the-badge&logo=javascript&logoColor=B58900&labelColor=FFF9DB"/>
+  <img src="https://img.shields.io/badge/SQL-F1EEFF?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=F1EEFF"/>
+  <img src="https://img.shields.io/badge/C++-EDF4FF?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=EDF4FF"/>
+  <img src="https://img.shields.io/badge/Git-FFF0EC?style=for-the-badge&logo=git&logoColor=F05032&labelColor=FFF0EC"/>
+  <img src="https://img.shields.io/badge/Postman-FFF3EC?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=FFF3EC"/>
 </p>
 
----
 ## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakashi06&theme=github-compact&hide_border=true&area=true"/>
 </p>
-
-
-
