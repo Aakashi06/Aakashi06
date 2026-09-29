@@ -4,62 +4,69 @@
 
 <br/>
 
-**AI Engineer** focused on building intelligent systems with
-**AI Agents · AI Voice Agents · LLMs · Fine-Tuning · RAG · MCP**
+AI Engineer focused on **AI Agents, AI Voice Agents, LLMs, Model Fine-Tuning & Agentic AI**
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Aakashi06&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-### ⚙️ `STACK`
+### ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,git,github" />
+
+<br/><br/>
+
+`LangGraph` · `LangChain` · `LlamaIndex` · `Hugging Face` · `Transformers`
+`RAG` · `MCP` · `LoRA` · `QLoRA` · `Ollama` · `STT` · `TTS`
+
+</div>
+
+---
+
+### 🧠 What I Work With
 
 ```text
-AI / ML        →  Python · PyTorch · Transformers · Hugging Face
-Agents         →  LangGraph · LangChain · LlamaIndex · MCP
-LLM            →  Prompt Engineering · LoRA · QLoRA · SFT
-GenAI          →  RAG · Vector Search · Tool Calling · Evaluation
-Voice AI       →  STT · TTS · Voice Agents
-Backend        →  FastAPI · REST APIs · Git
-Local AI       →  Ollama · Open-source LLMs
+AI Agents       →  Tool Calling · Memory · Planning · Multi-Agent Systems
+Voice AI        →  STT · LLM · TTS · Real-Time Voice Agents
+LLM Engineering →  Fine-Tuning · LoRA · QLoRA · SFT · Prompt Engineering
+GenAI           →  RAG · Vector Search · Evaluation · MCP
 ```
 
 ---
 
-### 🧩 `CURRENTLY BUILDING`
-
-> **Agentic AI systems** that can **reason → use tools → retrieve knowledge → remember context → take action.**
-
-🎙️ Exploring **real-time AI voice agents**
-🧠 Experimenting with **LLM fine-tuning & local models**
-🔌 Building with **MCP & tool-based agent architectures**
-
----
-
-### 📈 `GITHUB ACTIVITY`
+### 🔥 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakashi06&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakashi06&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FFD700&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=FFD700&sideNums=FFFFFF" width="500"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakashi06&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" width="850"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakashi06&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFD700&area=true&hide_border=true" width="850"/>
 
 </div>
 
 ---
 
-### 🌐 `CONNECT`
+### 🌐 Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Aakashi06)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](https://www.linkedin.com/in/aakashi-jaiswal-6b448524b/)
-[![X](https://img.shields.io/badge/X-0D1117?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/Aakashi_123)
+<a href="https://github.com/Aakashi06">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/aakashi-jaiswal-6b448524b/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+&nbsp;
+<a href="https://x.com/Aakashi_123">
+<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
 </div>
 
@@ -67,10 +74,6 @@ Local AI       →  Ollama · Open-source LLMs
 
 <div align="center">
 
-```text
-╭────────────────────────────────────────────╮
-│  BUILD  →  BREAK  →  LEARN  →  SHIP  →  ↻  │
-╰────────────────────────────────────────────╯
-```
+`BUILD` → `BREAK` → `LEARN` → `SHIP` → `REPEAT` 🔁
 
 </div>
