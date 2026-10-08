@@ -82,7 +82,7 @@ Multilingual voice AI companion with speech-to-text, LLM reasoning, and text-to-
 
 **[Nanocode](https://github.com/Aakashi06/Nanocode)**
 
-Lightweight CLI coding agent with tool execution, sub-agents, planning, and context compaction.
+CLI agent harness with tool execution, sub-agents, planning, and context compaction.
 
 `Python` `Tool Calling` `LLMs`
 
